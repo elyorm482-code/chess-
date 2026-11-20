@@ -1,0 +1,505 @@
+{
+  "profiles": {
+    "p_7r6tt19etj6j": {
+      "id": "p_7r6tt19etj6j",
+      "username": "Strategist_492",
+      "avatarId": "king_gold",
+      "xp": 0,
+      "level": 1,
+      "coins": 250,
+      "chessRating": 1200,
+      "checkersRating": 1200,
+      "gamesPlayed": 0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "unlockedItems": [
+        "obsidian_gold",
+        "royal_amethyst",
+        "staunton_gold",
+        "tourmaline_discs"
+      ],
+      "achievements": [],
+      "dailyStreak": 0,
+      "lastDailyClaimDate": null,
+      "missions": [
+        {
+          "id": "play_2",
+          "progress": 0,
+          "claimed": false
+        },
+        {
+          "id": "win_1",
+          "progress": 0,
+          "claimed": false
+        },
+        {
+          "id": "win_3",
+          "progress": 0,
+          "claimed": false
+        }
+      ],
+      "matchHistory": [],
+      "settings": {
+        "language": "en",
+        "soundEnabled": true,
+        "musicEnabled": false,
+        "themeMode": "dark",
+        "animations": "full",
+        "boardTheme": "obsidian_gold",
+        "chessSkin": "staunton_gold",
+        "checkersSkin": "tourmaline_discs"
+      }
+    },
+    "p_sjkoxzhstz6k": {
+      "id": "p_sjkoxzhstz6k",
+      "username": "Strategist_193",
+      "avatarId": "king_gold",
+      "xp": 0,
+      "level": 1,
+      "coins": 250,
+      "chessRating": 1200,
+      "checkersRating": 1200,
+      "gamesPlayed": 0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "unlockedItems": [
+        "obsidian_gold",
+        "royal_amethyst",
+        "staunton_gold",
+        "tourmaline_discs"
+      ],
+      "achievements": [],
+      "dailyStreak": 0,
+      "lastDailyClaimDate": null,
+      "missions": [
+        {
+          "id": "play_2",
+          "progress": 0,
+          "claimed": false
+        },
+        {
+          "id": "win_1",
+          "progress": 0,
+          "claimed": false
+        },
+        {
+          "id": "win_3",
+          "progress": 0,
+          "claimed": false
+        }
+      ],
+      "matchHistory": [],
+      "settings": {
+        "language": "en",
+        "soundEnabled": true,
+        "musicEnabled": false,
+        "themeMode": "dark",
+        "animations": "full",
+        "boardTheme": "obsidian_gold",
+        "chessSkin": "staunton_gold",
+        "checkersSkin": "tourmaline_discs"
+      }
+    },
+    "p_84w394oluowa": {
+      "id": "p_84w394oluowa",
+      "username": "Strategist_338",
+      "avatarId": "king_gold",
+      "xp": 0,
+      "level": 1,
+      "coins": 250,
+      "chessRating": 1200,
+      "checkersRating": 1200,
+      "gamesPlayed": 0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "unlockedItems": [
+        "obsidian_gold",
+        "royal_amethyst",
+        "staunton_gold",
+        "tourmaline_discs"
+      ],
+      "achievements": [],
+      "dailyStreak": 0,
+      "lastDailyClaimDate": null,
+      "missions": [
+        {
+          "id": "play_2",
+          "progress": 0,
+          "claimed": false
+        },
+        {
+          "id": "win_1",
+          "progress": 0,
+          "claimed": false
+        },
+        {
+          "id": "win_3",
+          "progress": 0,
+          "claimed": false
+        }
+      ],
+      "matchHistory": [],
+      "settings": {
+        "language": "en",
+        "soundEnabled": true,
+        "musicEnabled": false,
+        "themeMode": "dark",
+        "animations": "full",
+        "boardTheme": "obsidian_gold",
+        "chessSkin": "staunton_gold",
+        "checkersSkin": "tourmaline_discs"
+      }
+    },
+    "p_ejdar5qtv1ye": {
+      "id": "p_ejdar5qtv1ye",
+      "username": "Strategist_354",
+      "avatarId": "king_gold",
+      "xp": 0,
+      "level": 1,
+      "coins": 250,
+      "chessRating": 1200,
+      "checkersRating": 1200,
+      "gamesPlayed": 0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "unlockedItems": [
+        "obsidian_gold",
+        "royal_amethyst",
+        "staunton_gold",
+        "tourmaline_discs"
+      ],
+      "achievements": [],
+      "dailyStreak": 0,
+      "lastDailyClaimDate": null,
+      "missions": [
+        {
+          "id": "play_2",
+          "progress": 0,
+          "claimed": false
+        },
+        {
+          "id": "win_1",
+          "progress": 0,
+          "claimed": false
+        },
+        {
+          "id": "win_3",
+          "progress": 0,
+          "claimed": false
+        }
+      ],
+      "matchHistory": [],
+      "settings": {
+        "language": "en",
+        "soundEnabled": true,
+        "musicEnabled": false,
+        "themeMode": "dark",
+        "animations": "full",
+        "boardTheme": "obsidian_gold",
+        "chessSkin": "staunton_gold",
+        "checkersSkin": "tourmaline_discs"
+      }
+    },
+    "p_p7s1ilvav8xu": {
+      "id": "p_p7s1ilvav8xu",
+      "username": "Strategist_523",
+      "avatarId": "king_gold",
+      "xp": 0,
+      "level": 1,
+      "coins": 250,
+      "chessRating": 1200,
+      "checkersRating": 1200,
+      "gamesPlayed": 0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "unlockedItems": [
+        "obsidian_gold",
+        "royal_amethyst",
+        "staunton_gold",
+        "tourmaline_discs"
+      ],
+      "achievements": [],
+      "dailyStreak": 0,
+      "lastDailyClaimDate": null,
+      "missions": [
+        {
+          "id": "play_2",
+          "progress": 0,
+          "claimed": false
+        },
+        {
+          "id": "win_1",
+          "progress": 0,
+          "claimed": false
+        },
+        {
+          "id": "win_3",
+          "progress": 0,
+          "claimed": false
+        }
+      ],
+      "matchHistory": [],
+      "settings": {
+        "language": "en",
+        "soundEnabled": true,
+        "musicEnabled": false,
+        "themeMode": "dark",
+        "animations": "full",
+        "boardTheme": "obsidian_gold",
+        "chessSkin": "staunton_gold",
+        "checkersSkin": "tourmaline_discs"
+      }
+    },
+    "p_jbh5hmh1vzwp": {
+      "id": "p_jbh5hmh1vzwp",
+      "username": "Strategist_838",
+      "avatarId": "king_gold",
+      "xp": 0,
+      "level": 1,
+      "coins": 250,
+      "chessRating": 1200,
+      "checkersRating": 1200,
+      "gamesPlayed": 0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "unlockedItems": [
+        "obsidian_gold",
+        "royal_amethyst",
+        "staunton_gold",
+        "tourmaline_discs"
+      ],
+      "achievements": [],
+      "dailyStreak": 0,
+      "lastDailyClaimDate": null,
+      "missions": [
+        {
+          "id": "play_2",
+          "progress": 0,
+          "claimed": false
+        },
+        {
+          "id": "win_1",
+          "progress": 0,
+          "claimed": false
+        },
+        {
+          "id": "win_3",
+          "progress": 0,
+          "claimed": false
+        }
+      ],
+      "matchHistory": [],
+      "settings": {
+        "language": "en",
+        "soundEnabled": true,
+        "musicEnabled": false,
+        "themeMode": "dark",
+        "animations": "full",
+        "boardTheme": "obsidian_gold",
+        "chessSkin": "staunton_gold",
+        "checkersSkin": "tourmaline_discs"
+      }
+    },
+    "p_vw9ic26rxc3v": {
+      "id": "p_vw9ic26rxc3v",
+      "username": "Strategist_395",
+      "avatarId": "king_gold",
+      "xp": 40,
+      "level": 1,
+      "coins": 300,
+      "chessRating": 1200,
+      "checkersRating": 1200,
+      "gamesPlayed": 0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "unlockedItems": [
+        "obsidian_gold",
+        "royal_amethyst",
+        "staunton_gold",
+        "tourmaline_discs"
+      ],
+      "achievements": [],
+      "dailyStreak": 1,
+      "lastDailyClaimDate": "2026-11-20",
+      "missions": [
+        {
+          "id": "play_2",
+          "progress": 0,
+          "claimed": false
+        },
+        {
+          "id": "win_1",
+          "progress": 0,
+          "claimed": false
+        },
+        {
+          "id": "win_3",
+          "progress": 0,
+          "claimed": false
+        }
+      ],
+      "matchHistory": [],
+      "settings": {
+        "language": "en",
+        "soundEnabled": true,
+        "musicEnabled": false,
+        "themeMode": "dark",
+        "animations": "full",
+        "boardTheme": "obsidian_gold",
+        "chessSkin": "staunton_gold",
+        "checkersSkin": "tourmaline_discs"
+      }
+    },
+    "p_iy1e5g5bxr2o": {
+      "id": "p_iy1e5g5bxr2o",
+      "username": "Strategist_817",
+      "avatarId": "king_gold",
+      "xp": 40,
+      "level": 1,
+      "coins": 100,
+      "chessRating": 1200,
+      "checkersRating": 1200,
+      "gamesPlayed": 0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "unlockedItems": [
+        "obsidian_gold",
+        "royal_amethyst",
+        "staunton_gold",
+        "tourmaline_discs",
+        "emerald_velvet"
+      ],
+      "achievements": [
+        "collector"
+      ],
+      "dailyStreak": 1,
+      "lastDailyClaimDate": "2026-11-20",
+      "missions": [
+        {
+          "id": "play_2",
+          "progress": 0,
+          "claimed": false
+        },
+        {
+          "id": "win_1",
+          "progress": 0,
+          "claimed": false
+        },
+        {
+          "id": "win_3",
+          "progress": 0,
+          "claimed": false
+        }
+      ],
+      "matchHistory": [],
+      "settings": {
+        "language": "en",
+        "soundEnabled": true,
+        "musicEnabled": false,
+        "themeMode": "dark",
+        "animations": "full",
+        "boardTheme": "emerald_velvet",
+        "chessSkin": "staunton_gold",
+        "checkersSkin": "tourmaline_discs"
+      }
+    }
+  },
+  "seedLeaderboard": [
+    {
+      "id": "gm_1",
+      "username": "Nodirbek_GM",
+      "avatarId": "king_gold",
+      "level": 18,
+      "chessRating": 2480,
+      "checkersRating": 1940,
+      "wins": 142,
+      "gamesPlayed": 175,
+      "xp": 4820
+    },
+    {
+      "id": "gm_2",
+      "username": "AmethystQueen",
+      "avatarId": "queen_violet",
+      "level": 16,
+      "chessRating": 2345,
+      "checkersRating": 2110,
+      "wins": 118,
+      "gamesPlayed": 150,
+      "xp": 4190
+    },
+    {
+      "id": "gm_3",
+      "username": "TashkentTactician",
+      "avatarId": "knight_emerald",
+      "level": 14,
+      "chessRating": 2210,
+      "checkersRating": 2280,
+      "wins": 96,
+      "gamesPlayed": 132,
+      "xp": 3650
+    },
+    {
+      "id": "gm_4",
+      "username": "ObsidianRook",
+      "avatarId": "rook_crimson",
+      "level": 12,
+      "chessRating": 2040,
+      "checkersRating": 1890,
+      "wins": 78,
+      "gamesPlayed": 112,
+      "xp": 2940
+    },
+    {
+      "id": "gm_5",
+      "username": "KarpovLegacy",
+      "avatarId": "crown_obsidian",
+      "level": 11,
+      "chessRating": 1965,
+      "checkersRating": 1760,
+      "wins": 64,
+      "gamesPlayed": 95,
+      "xp": 2510
+    },
+    {
+      "id": "gm_6",
+      "username": "SamarkandFox",
+      "avatarId": "shield_azure",
+      "level": 9,
+      "chessRating": 1810,
+      "checkersRating": 1995,
+      "wins": 52,
+      "gamesPlayed": 84,
+      "xp": 1980
+    },
+    {
+      "id": "gm_7",
+      "username": "SilverKnight88",
+      "avatarId": "knight_emerald",
+      "level": 7,
+      "chessRating": 1640,
+      "checkersRating": 1580,
+      "wins": 39,
+      "gamesPlayed": 68,
+      "xp": 1420
+    },
+    {
+      "id": "gm_8",
+      "username": "VelvetCheckers",
+      "avatarId": "queen_violet",
+      "level": 6,
+      "chessRating": 1420,
+      "checkersRating": 1790,
+      "wins": 31,
+      "gamesPlayed": 55,
+      "xp": 1160
+    }
+  ]
+}

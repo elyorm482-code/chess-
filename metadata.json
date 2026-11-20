@@ -1,0 +1,6 @@
+{
+  "name": "Chess & Checkers Ultimate",
+  "description": "Premium dark-luxury chess and checkers gaming platform with intelligent multi-tier AI, server-authoritative WebSocket multiplayer, knockout tournaments, cosmetics, and player progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
